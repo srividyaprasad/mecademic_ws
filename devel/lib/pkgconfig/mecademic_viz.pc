@@ -1,0 +1,8 @@
+prefix=/home/srividyaprasad/mecademic_ws/devel
+
+Name: mecademic_viz
+Description: Description of mecademic_viz
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

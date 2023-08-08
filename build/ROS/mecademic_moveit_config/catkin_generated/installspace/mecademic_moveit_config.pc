@@ -1,0 +1,8 @@
+prefix=/home/srividyaprasad/mecademic_ws/install
+
+Name: mecademic_moveit_config
+Description: Description of mecademic_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

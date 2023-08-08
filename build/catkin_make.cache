@@ -1,0 +1,2 @@
+ROS/mecademic_description:ROS/mecademic_moveit_config:ROS/mecademic_robot_node:ROS/mecademic_viz
+-DCATKIN_DEVEL_PREFIX=/home/srividyaprasad/mecademic_ws/devel -DCMAKE_INSTALL_PREFIX=/home/srividyaprasad/mecademic_ws/install -G Unix Makefiles

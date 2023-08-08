@@ -1,0 +1,8 @@
+prefix=/home/srividyaprasad/mecademic_ws/devel
+
+Name: mecademic_robot_node
+Description: Description of mecademic_robot_node
+Version: 1.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs geometry_msgs sensor_msgs

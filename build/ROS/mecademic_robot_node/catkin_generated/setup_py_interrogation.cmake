@@ -1,0 +1,7 @@
+set(mecademic_robot_node_SETUP_PY_SETUP_MODULE "distutils.core")
+set(mecademic_robot_node_SETUP_PY_VERSION "1.0.1")
+set(mecademic_robot_node_SETUP_PY_SCRIPTS "")
+set(mecademic_robot_node_SETUP_PY_PACKAGES "mecademic_robot_node")
+set(mecademic_robot_node_SETUP_PY_PACKAGE_DIRS "src/mecademic_robot_node")
+set(mecademic_robot_node_SETUP_PY_MODULES "")
+set(mecademic_robot_node_SETUP_PY_MODULE_DIRS "")
